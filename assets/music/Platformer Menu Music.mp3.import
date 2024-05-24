@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cque7d5gqc8fq"
+path="res://.godot/imported/Platformer Menu Music.mp3-b270fa7d2c9f56a20a7c44d800ca1e39.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Platformer Menu Music.mp3"
+dest_files=["res://.godot/imported/Platformer Menu Music.mp3-b270fa7d2c9f56a20a7c44d800ca1e39.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

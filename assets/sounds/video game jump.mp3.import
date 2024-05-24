@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b1o7257lfy4jg"
+path="res://.godot/imported/video game jump.mp3-9f8250dd339c5f1b65fb311258a958d5.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/video game jump.mp3"
+dest_files=["res://.godot/imported/video game jump.mp3-9f8250dd339c5f1b65fb311258a958d5.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
